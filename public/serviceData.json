@@ -1,0 +1,86 @@
+[
+    {
+        "key": "01",
+        "name": "Web development",
+        "img": "https://raw.githubusercontent.com/odht82/data_heroedu/main/1.jpg",
+        "special": "Best sale service",
+        "price": "Starts from $70"
+    },
+    {
+        "key": "02",
+        "name": "Crm Design for company",
+        "img": "https://raw.githubusercontent.com/odht82/data_heroedu/main/2.jpg",
+        "special": "Best sale service",
+        "price": "Starts from $120"
+    },
+    {
+        "key": "03",
+        "name": "Web solution for business",
+        "img": "https://raw.githubusercontent.com/odht82/data_heroedu/main/3.jpg",
+        "special": "Best sale service",
+        "price": "Starts from $40 for 1 Hour"
+    },
+    {
+        "key": "04",
+        "name": "Company management solution",
+        "img": "https://raw.githubusercontent.com/odht82/data_heroedu/main/4.jpg",
+        "special": "Best sale service",
+        "price": "Starts from $120"
+    },
+    {
+        "key": "05",
+        "name": "Business solution",
+        "img": "https://raw.githubusercontent.com/odht82/data_heroedu/main/5.jpg",
+        "special": "Best sale service",
+        "price": "Starts from $350"
+    },
+    {
+        "key": "06",
+        "name": "Web development service",
+        "img": "https://raw.githubusercontent.com/odht82/data_heroedu/main/6.jpg",
+        "special": "Best sale service",
+        "price": "Starts from $60"
+    },
+    {
+        "key": "07",
+        "name": "Company management solution",
+        "img": "https://raw.githubusercontent.com/odht82/data_heroedu/main/7.jpg",
+        "special": "Best sale service",
+        "price": "Starts from $85 Per day"
+    },
+    {
+        "key": "08",
+        "name": "Software Development",
+        "img": "https://raw.githubusercontent.com/odht82/data_heroedu/main/8.jpg",
+        "special": "Best sale service",
+        "price": "Starts from $70 Per day"
+    },
+    {
+        "key": "09",
+        "name": "Full stack development",
+        "img": "https://raw.githubusercontent.com/odht82/data_heroedu/main/9.jpg",
+        "special": "Best sale service",
+        "price": "Starts from $90"
+    },
+    {
+        "key": "10",
+        "name": "Mern Stack development",
+        "img": "https://raw.githubusercontent.com/odht82/data_heroedu/main/10.jpg",
+        "special": "Best sale service",
+        "price": "Starts from $110 Per day"
+    },
+    {
+        "key": "11",
+        "name": "Pern stack development",
+        "img": "https://raw.githubusercontent.com/odht82/data_heroedu/main/11.jpg",
+        "special": "Best sale service",
+        "price": "Starts from $300"
+    },
+    {
+        "key": "12",
+        "name": "ElectronJs development",
+        "img": "https://raw.githubusercontent.com/odht82/data_heroedu/main/12.jpg",
+        "special": "Best sale service",
+        "price": "Starts from $260 Per day"
+    }
+]

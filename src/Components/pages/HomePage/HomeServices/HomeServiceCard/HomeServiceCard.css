@@ -1,0 +1,96 @@
+.HomeServicecard-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    padding: 15px;
+    border-radius: 12px;
+}
+
+.HomeServicecard-body:hover {
+    transform: scale(1.HomeService02);
+    transition: all 0.HomeService3s ease-out;
+    color: #00806b;
+}
+
+.HomeServicecard-details {
+    top: 0px;
+    width: 100%;
+    padding: 15px;
+    background-color: #099cbd1a;
+    cursor: pointer;
+    border-radius: 0px 0px 12px 12px;
+}
+
+.HomeServiceimage-container {
+    height: 196px;
+    width: 100%;
+}
+
+.HomeServiceimage-container img {
+    height: 200px;
+    object-fit: cover;
+}
+
+.HomeServicename-special {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    margin-top: 15px;
+}
+
+.HomeServicebutton {
+    margin-top: 10px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    text-decoration: none;
+}
+
+.HomeServicename {
+    font-size: 24px;
+    font-weight: 800;
+    margin: 0px;
+    color: #009a76;
+}
+
+.HomeServicecard-body:hover {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    box-shadow: 0px 0px 20px 5px #049dd923;
+    padding: 15px;
+    border-radius: 12px;
+    cursor: pointer;
+}
+
+.HomeServicecontact-btn {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid #009a76;
+    color: #009a76;
+    background-color: #fff;
+    cursor: pointer;
+    width: 100%;
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.HomeServicecontact-btn:hover {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #009a76;
+    color: #fff;
+    box-shadow: 0px 0px 10px 2px #049dd923;
+    cursor: pointer;
+    width: 100%;
+}
